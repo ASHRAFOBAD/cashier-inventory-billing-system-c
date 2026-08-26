@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1737106828 source:c:\”ÿÕ «·„ﬂ »\my c project via code blocks\submission\cashier system _ project\code.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
