@@ -69,7 +69,7 @@ typedef struct {
 
 Build Instructions:
 # Clone the repository
-git clone [https://github.com/your-username/cashier-inventory-billing-system-c.git](https://github.com/your-username/cashier-inventory-billing-system-c.git)
+git clone [https://github.com/ashraf-12/cashier-inventory-billing-system-c.git](https://github.com/ashraf-12/cashier-inventory-billing-system-c.git)
 cd cashier-inventory-billing-system-c
 
 # Compile with GCC
